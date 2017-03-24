@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>迷于星际迷航</title>
-    <description>欢迎收听</description>
+    <description>一档适合星际旅行收听的聊天节目</description>
     <link>http://wqjkdqj.github.io/</link>
     <atom:link href="http://wqjkdqj.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Mar 2017 23:27:31 +0800</pubDate>
-    <lastBuildDate>Fri, 24 Mar 2017 23:27:31 +0800</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2017 02:10:22 +0800</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 02:10:22 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -15,15 +15,7 @@
 
 &lt;p&gt;玖涼在后段消失了，抱歉，虽然她的电台最近也开播了，成为我们的友（敌）台，但真不是我们想封杀她，消失的原因仅仅是三录仪故障。她的播客叫「星际迷航英文教室」，欢迎前往荔枝FM订阅。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20170219，嘉宾：玖凉豆浆机，主播：小猪&lt;/td&gt;
-      &lt;td&gt;深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20170219，嘉宾：玖凉豆浆机，主播：小猪|深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 
@@ -74,14 +66,7 @@
 
 &lt;p&gt;节目最后安利一下友台：由玖涼主持的「星际迷航英文教室」播客，欢迎前往荔枝FM订阅。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20170205，主播：深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20170205，主播：深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 
@@ -341,46 +326,10 @@
 &lt;p&gt;Other links:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Star Trek: Axiom&lt;/td&gt;
-          &lt;td&gt;The Fan Film Compendium Wiki](http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Star Trek: Axiom&lt;/td&gt;
-          &lt;td&gt;thefanfilm-compendium ](http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Yorktown: A Time to Heal&lt;/td&gt;
-          &lt;td&gt;Star Trek Expanded Universe](https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0ahUKEwjp0KrQ6NfRAhULT7wKHVbQDFAQFggaMAA&amp;amp;url=http%3A%2F%2Fstexpanded.wikia.com%2Fwiki%2FYorktown%3A_A_Time_to_Heal&amp;amp;usg=AFQjCNFQTgW5XJDhXl6JjlrT9lpeMCl74A&amp;amp;sig2=48k_gVyz1bKGLbhpQiy8cw&amp;amp;bvm=bv.144686652,bs.2,d.dGo&amp;amp;cad=rja)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;[Yorktown: A Time to Heal&lt;/td&gt;
-          &lt;td&gt;stexpanded.wikia.com](http://stexpanded.wikia.com/wiki/Yorktown:_A_Time_to_Heal)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom&quot;&gt;Star Trek: Axiom | The Fan Film Compendium Wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom&quot;&gt;Star Trek: Axiom | thefanfilm-compendium &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0ahUKEwjp0KrQ6NfRAhULT7wKHVbQDFAQFggaMAA&amp;amp;url=http%3A%2F%2Fstexpanded.wikia.com%2Fwiki%2FYorktown%3A_A_Time_to_Heal&amp;amp;usg=AFQjCNFQTgW5XJDhXl6JjlrT9lpeMCl74A&amp;amp;sig2=48k_gVyz1bKGLbhpQiy8cw&amp;amp;bvm=bv.144686652,bs.2,d.dGo&amp;amp;cad=rja&quot;&gt;Yorktown: A Time to Heal | Star Trek Expanded Universe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stexpanded.wikia.com/wiki/Yorktown:_A_Time_to_Heal&quot;&gt;Yorktown: A Time to Heal | stexpanded.wikia.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;feedbacks&quot;&gt;●Feedbacks●&lt;/h2&gt;
@@ -464,15 +413,7 @@
         <title>32 2016年的片尾滚动字幕</title>
         <description>&lt;p&gt;以我们一贯的催眠风格，作2016年最后的滚动字幕。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20161231/20170122，主播：小猪&lt;/td&gt;
-      &lt;td&gt;深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20161231/20170122，主播：小猪|深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 
@@ -610,15 +551,7 @@
         <title>31 星舰学院报考指南</title>
         <description>&lt;p&gt;想考星舰学院却不知道该学什么专业？收听时请查看 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Starfleet_Academy_courses&quot;&gt;星联学院专业目录&lt;/a&gt;&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20161224，主播：小猪&lt;/td&gt;
-      &lt;td&gt;深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20161224，主播：小猪|深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 
@@ -673,15 +606,7 @@
         <title>30 近期新闻与校园霸凌</title>
         <description>&lt;p&gt;对上期节目追踪之后我们聊了一些近期的新闻，最后谈了下知道TOS、TNG年代也没有解决的校园霸凌问题。考虑到星际迷航粉有可能是班里的怪胎（偏见？），有必要对欺负与被欺负的孩子以及将来的家长们提个醒，将问题重视起来。至于解决之道，大家具体问题具体分析，注意技巧（比如Spock打架前就先将熊孩子推到一边单挑）。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20161224，主播：小猪&lt;/td&gt;
-      &lt;td&gt;深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20161224，主播：小猪|深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 
@@ -739,14 +664,7 @@
         <title>29 论轨道动力学与星际迷航的关系</title>
         <description>&lt;p&gt;科普了超级月亮之后，我们讨论了在太空中被打坏引擎会不会往下掉的问题。&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;本期节目录制于20161125，主播：深思&lt;/td&gt;
-      &lt;td&gt;CrazyEMH&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;本期节目录制于20161125，主播：深思|CrazyEMH&lt;/p&gt;
 
 &lt;p&gt;————&lt;/p&gt;
 

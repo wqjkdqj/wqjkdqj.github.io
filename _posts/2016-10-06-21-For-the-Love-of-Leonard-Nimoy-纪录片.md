@@ -8,7 +8,7 @@ tag: 播客
 
 Adam Nimoy 拍的纪录片 [For the Love of Spock](http://fortheloveofspock.com/) 的一点回顾。
 
-本期节目录制于20161003，主播：小猪|CrazyEMH
+本期节目录制于20161003，主播：小猪\|CrazyEMH
 
 ————
 

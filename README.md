@@ -1,4 +1,8 @@
-# leopard
+# 迷于星际迷航播客
+
+###主题
+
+主题使用[leopard](http://baixin.io)共享的模板。
 
 [leopard](http://baixin.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 

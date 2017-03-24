@@ -1,48 +1,33 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我们
 ---
+##我们是谁
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
-<p>
-平时喜欢整理个人博客，逛逛技术论坛。
-<p>
-了解一些 前端 基本概念和 Python 的简单用法。
+###小猪
 
-<p>
+小猪简介
 
-所在公司
-<a target="_blank" href="https://www.talkingdata.com/"> TalkingData </a>
-是一个移动互联网大数据平台的公司，无论你是运营、产品、开发 或者是App终端用户都可以了解下我们公司。
-<p>
+###深思
 
-推荐一个我维护的 Team 博客
-<a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
-里面有一些关于 iOS 、Android 和 机器学习 的文章。
+深思简介
 
-<p>
+###CrazyEMH
 
-<h3> 我们的博客 </h3>  
+EMH不想简介
 
-<p>
+##收听方式
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+* [播客订阅RSS](http://www.lizhi.fm/rss/1935913.xml)
+* [荔枝](http://www.lizhi.fm/1935913/)
+* [喜马拉雅](http://www.ximalaya.com/6418191/album/3135361)
+* [iTunes](https://itunes.apple.com/cn/podcast/mi-yu-xing-ji-mi-hang-lost-in-st/id1054780505?mt=2)
+* [Google Play Music](https://play.google.com/music/m/Iey4t72nyfjstbvsymmgcoptdqy?t=_Lost_in_ST)
 
-<p>
+##联系方式
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies open.
 
-<p>
+新浪微博：[@迷于星际迷航播客](http://weibo.com/lostinst)
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-{% include comments.html %}
-
-
-
+听众交流群：QQ群号 591546843
